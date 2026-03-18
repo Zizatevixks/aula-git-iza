@@ -1,3 +1,10 @@
 body {
-    background-color: lightpink;
+    background-color: papayawhip;
+}
+
+Button {
+    background-color: LavenderBlush;
+    color: darkorange;
+    font-weight: bold;
+    font-size: 18px;
 }
