@@ -11,6 +11,7 @@ body {
     justify-content: center;
     height: 100vh;
     align-items: center;
+
 }
 
 /*Formulário e componentes*/
@@ -45,4 +46,14 @@ button {
     color: darkorange;
     font-weight: bold;
     font-size: 18px;
+}
+
+.inicio{ 
+    width: 20¢;
+    padding: 15px;
+    cursor: pointer;
+    position:fixed;
+    right: 30px;
+    top: 30px;
+
 }
